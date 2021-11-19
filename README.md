@@ -11,6 +11,8 @@ Follow the instructions in one of these link:
 
 - [Flutter Dev](https://docs.flutter.dev/get-started/editor?tab=vscode)
 
+You can also try Dart in your browser clicking [here](https://dartpad.dev/?null_safety=true).
+
 # Run
 
 Each file has a different example, to run an example execute:
